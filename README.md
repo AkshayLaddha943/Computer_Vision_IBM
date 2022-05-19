@@ -12,3 +12,8 @@ Within Image manipulation, we perform -
  * **Cropping images** refers to cutting out part of image and throwing out the rest
  * **Changing Image pixels** refers to changing the intensity values of image
 
+For pixel transformations, we perform -
+ * **Histogram**
+ * **Intensity Transformation** 
+ * **Thresholding and basic segmentation**
+
