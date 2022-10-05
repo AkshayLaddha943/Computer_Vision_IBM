@@ -13,7 +13,8 @@ Within Image manipulation, we perform -
  * **Changing Image pixels** refers to changing the intensity values of image
 
 For pixel transformations, we perform -
- * **Histogram** counts the number of occurences of pixels in an image.
+ * **Histogram** counts the number of occurences of pixels in an image. An example of Histogram - 
+ 
  * **Intensity Transformation** 
  * **Thresholding and basic segmentation**
 
