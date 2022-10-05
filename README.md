@@ -14,11 +14,11 @@ Within Image manipulation, we perform -
 
 For pixel transformations, we perform -
  * **Histogram** counts the number of occurences of pixels in an image. An example of Histogram -
- 
+  The darker portions represent lower intensities and brighter regions are mapped to higher values
  
 <p align="center"><img src="https://github.com/AkshayLaddha943/Computer_Vision_IBM/blob/main/Imgs/histogram.PNG" height="250" width="500" alt="header pic"/>
  
  
- * **Intensity Transformation** 
- * **Thresholding and basic segmentation**
+ * **Intensity Transformation**  changes an image one pixel at a time
+ * **Thresholding and basic segmentation** reverse the intensity levels of an image
 
