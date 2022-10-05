@@ -14,7 +14,7 @@ Within Image manipulation, we perform -
 
 For pixel transformations, we perform -
  * **Histogram** counts the number of occurences of pixels in an image. An example of Histogram - 
- 
+ <img src="https://github.com/AkshayLaddha943/Computer_Vision_IBM/blob/main/Imgs/histogram.PNG" align="right" width="250" alt="header pic"/>
  * **Intensity Transformation** 
  * **Thresholding and basic segmentation**
 
