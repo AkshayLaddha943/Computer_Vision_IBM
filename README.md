@@ -13,8 +13,10 @@ Within Image manipulation, we perform -
  * **Changing Image pixels** refers to changing the intensity values of image
 
 For pixel transformations, we perform -
- * **Histogram** counts the number of occurences of pixels in an image. An example of Histogram - 
- <img src="https://github.com/AkshayLaddha943/Computer_Vision_IBM/blob/main/Imgs/histogram.PNG width="250" alt="header pic"/>
+ * **Histogram** counts the number of occurences of pixels in an image. An example of Histogram -
+ 
+ 
+<p align="center"><img src="https://github.com/AkshayLaddha943/Computer_Vision_IBM/blob/main/Imgs/histogram.PNG" height="500" width="250" alt="header pic"/>
  
  
  * **Intensity Transformation** 
