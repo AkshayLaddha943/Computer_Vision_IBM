@@ -22,6 +22,9 @@ For pixel transformations, we perform -
  * **Intensity Transformation**  changes an image one pixel at a time
  * **Image Negative** reverse the intensity levels of an image
  * **Brightness and contrast adjustments** A linear transform can be seen as applying as brightness and contrast adjustments
- * **Histogram Equalization** reverse the intensity levels of an image
+ * **Histogram Equalization** is an algorithm that uses image's histogram to adjust the contrast
+ * **Thresholding and Image Segmentation** applies threshold to every pixel which can be used to extract objects from image called segmentation
  
 
+Geometric Operation Include - 
+  
