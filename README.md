@@ -27,5 +27,7 @@ For pixel transformations, we perform -
  * **Thresholding and Image Segmentation** applies threshold to every pixel which can be used to extract objects from image called segmentation
  
 
+
 Geometric Operation Include - 
+
   
