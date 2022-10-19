@@ -27,7 +27,12 @@ For pixel transformations, we perform -
  * **Thresholding and Image Segmentation** applies threshold to every pixel which can be used to extract objects from image called segmentation
  
 
+## Geometric Operations
 
-Geometric Operation Include - 
+Following Geometric operations can be performed - 
+
+
+ * **Scaling**  reshape, shring or expand the image in a horizontal or vertical direction
+ * **Image Negative** reverse the intensity levels of an image 
 
   
